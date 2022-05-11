@@ -10,11 +10,16 @@
 
 # Investigar a fondo un Proyecto antes de Invertir   
 
-- 1. Lee el WhitePaper.  
-- 2. Interactúa con la comunidad de Telegram (cómo funciona y qué tan orgánica es)  
-- 3. Prueba el producto con poco dinero para tener certeza de cómo funciona.  
-- 4. Revisa las auditorias.  
-- 5. Decide si inviertes o no en este proyecto.  
+- Lee el WhitePaper (este detallará cual es la razón de ser del proyecto y sus objetivos)  
+- Seguir a la comunidad en redes sociales, Twitter, Telegram, Reddit(revisar si la comunidad es activa o no)   
+- Github, revisar los avances del proyecto, con que frecuencia lo actualizan, la gente que trabaja en este, 
+así estamos seguros si de verdad se esta cumpliendo lo proyectado en el WhitePaper.  
+- Revisar las auditorias en temas de seguridad a las que se ha sometido el proyecto.  
+- Siempre que se quiera ingresar al sitio web de un proyecto se deberá corroborar muy bien el link,  
+en estas páginas [https://www.coingecko.com/](https://www.coingecko.com/) o [https://coinmarketcap.com/](https://coinmarketcap.com/), estarán disponibles los links oficiales de cada proyecto, como así también el Contrato y demas info.   
+- Prueba el producto con poco dinero para tener certeza de cómo funciona.  
+- Revisa las auditorias.   
+
 
 ## Recursos para Investigar Proyectos DEFI:  
 
