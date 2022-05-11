@@ -6,7 +6,7 @@
 
 # DEFI
 
-Este repositorio contiene 
+Este repositorio contiene recursos sobre Finanzas Decentralizadas.   
 
 <p float="left">
   <img src="https://github.com/aledc7/defi/blob/main/resources/img/defi2.jpeg" width="200" height="200">  
