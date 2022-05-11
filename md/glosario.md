@@ -4,7 +4,7 @@
 [![GitHub release](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/release.svg)]()
 [![Dependencies](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/dependencias-none.svg)]()
 
-# DEFI
+# DEFI - Finanzas Decentralizadas
 
 
 <p float="left">
@@ -16,8 +16,18 @@
 
 A continuación se describen términis comunmente usados en el mundo DEFI y su explicación.   
 
-
+__________________________________________
 ## Conceptos DeFi
+
+- Ecosistema de Servicios Financieros de código abierto.
+- Transparente.
+- Inmutable.
+- Accesible para todo el mundo.
+- Sin ninguna Autoridad central.
+- Control total de activos para los Usuarios.
+- Desarrollado en (DAPPS) de tipo peer-to-peer (P2P)
+  
+  
 __________________________________________
 #### Colateral ❓
 Es un activo que sirve como garantía frente a la concesión de un crédito, una emisión de bonos o cualquier otra operación financiera.    
