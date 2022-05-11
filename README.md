@@ -15,5 +15,6 @@ Este repositorio contiene recursos sobre Finanzas Decentralizadas.
 
 ## Indice
 
-- [X] - [Glosario DEFI](https://github.com/aledc7/defi/blob/main/md/glosario.md)
+- [X] - [Glosario DEFI](https://github.com/aledc7/defi/blob/main/md/glosario.md)  
+- [X] - [Recomendaciónes](https://github.com/aledc7/defi/blob/main/md/dyor.md)  
   
